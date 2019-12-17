@@ -4,4 +4,3 @@
 第四行：使用非Fast forward 模式;
 第五行：在bug分支修复bug；
 第六行：多人协作windows;
-
